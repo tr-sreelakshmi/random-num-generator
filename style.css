@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+}
+#myButton{
+    padding: 10px;
+ border-radius: 6px;
+ background-color: black;
+ color: white;
+ font-size: larger;
+ font-weight: bold;
+ cursor: pointer;
+}
+
+#myButton:hover{
+    background-color:white ;
+ color: black;
+}
+
+#myLabel1 , #myLabel2{
+    font-size: 2em;   
+}
